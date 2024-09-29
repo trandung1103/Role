@@ -1,0 +1,13 @@
+<!--        <%                                        
+            ServletContext context = getServletContext();
+            ArrayList<User> users = (ArrayList<User>) context.getAttribute("users");
+            if (users == null) {
+                users = new ArrayList<User>();
+                String u = getServletContext().getInitParameter("username");
+                String p = getServletContext().getInitParameter("password");
+                String r = getServletContext().getInitParameter("role");
+                String d = getServletContext().getInitParameter("displayname");
+                users.add(new User(u,p,r,d));
+                context.setAttribute("users", users);
+            }
+        %>-->

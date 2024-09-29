@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Java/Role/web/register.jsp</file>
+            <file>file:/D:/Java/Role/web/login.jsp</file>
+            <file>file:/D:/Java/Role/src/java/controller/LoginServlet.java</file>
+            <file>file:/D:/Java/Role/src/java/controller/LogoutServlet.java</file>
+            <file>file:/D:/Java/Role/src/java/model/User.java</file>
+            <file>file:/D:/Java/Role/src/java/model/Cart.java</file>
+            <file>file:/D:/Java/Role/src/java/controller/CheckoutServlet.java</file>
+            <file>file:/D:/Java/Role/src/java/controller/AddProduct.java</file>
+            <file>file:/D:/Java/Role/src/java/controller/delete.java</file>
+            <file>file:/D:/Java/Role/web/css/edit_user.css</file>
+            <file>file:/D:/Java/Role/src/java/controller/admin_edit.java</file>
+            <file>file:/D:/Java/Role/src/java/controller/add.java</file>
+            <file>file:/D:/Java/Role/src/java/model/Product.java</file>
+            <file>file:/D:/Java/Role/web/css/user.css</file>
+            <file>file:/D:/Java/Role/web/css/register.css</file>
+            <file>file:/D:/Java/Role/web/home.jsp</file>
+            <file>file:/D:/Java/Role/web/css/admin.css</file>
+            <file>file:/D:/Java/Role/web/css/home.css</file>
+            <file>file:/D:/Java/Role/web/user.jsp</file>
+            <file>file:/D:/Java/Role/src/java/controller/RegisterServlet.java</file>
+            <file>file:/D:/Java/Role/src/java/controller/UserServlet.java</file>
+            <file>file:/D:/Java/Role/src/java/controller/HomeServlet.java</file>
+            <file>file:/D:/Java/Role/web/old.html</file>
+            <file>file:/D:/Java/Role/web/WEB-INF/web.xml</file>
+            <file>file:/D:/Java/Role/web/css/cart.css</file>
+            <file>file:/D:/Java/Role/web/admin_add.jsp</file>
+            <file>file:/D:/Java/Role/src/java/controller/AdminServlet.java</file>
+            <file>file:/D:/Java/Role/web/edit_user.jsp</file>
+            <file>file:/D:/Java/Role/web/css/login.css</file>
+            <file>file:/D:/Java/Role/src/java/controller/CartServlet.java</file>
+            <file>file:/D:/Java/Role/src/java/controller/AppContextListener.java</file>
+            <file>file:/D:/Java/Role/web/admin.jsp</file>
+            <file>file:/D:/Java/Role/web/edit_admin.jsp</file>
+            <file>file:/D:/Java/Role/src/java/model/CartItem.java</file>
+            <file>file:/D:/Java/Role/web/css/edit_admin.css</file>
+            <file>file:/D:/Java/Role/web/removeFromCart.jsp</file>
+            <file>file:/D:/Java/Role/web/logout.jsp</file>
+        </group>
+    </open-files>
+</project-private>
